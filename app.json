@@ -1,6 +1,6 @@
 {
   "name": "image-proxy",
-  "repository": "https://github.com/jpmckinney/image-proxy",
+  "repository": "https://github.com/dragouf/image-proxy",
   "description": "A simple image proxy optimized for headshots",
   "keywords": ["image", "proxy"],
   "addons": [],
@@ -8,9 +8,6 @@
     "NODE_ENV": "production"
   },
   "buildpacks": [
-    {
-      "url": "https://github.com/ello/heroku-buildpack-imagemagick"
-    },
     {
       "url": "https://github.com/heroku/heroku-buildpack-nodejs"
     }

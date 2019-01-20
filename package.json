@@ -6,15 +6,15 @@
     "image",
     "proxy"
   ],
-  "homepage": "https://github.com/jpmckinney/image-proxy",
-  "bugs": "https://github.com/jpmckinney/image-proxy/issues",
+  "homepage": "https://github.com/dragouf/image-proxy",
+  "bugs": "https://github.com/dragouf/image-proxy/issues",
   "license": "MIT",
   "author": "James McKinney",
   "main": "./lib/image-proxy",
   "bin": "./bin/image-proxy",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpmckinney/image-proxy.git"
+    "url": "https://github.com/dragouf/image-proxy.git"
   },
   "scripts": {
     "start": "./bin/image-proxy",
